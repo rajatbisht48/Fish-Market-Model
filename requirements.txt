@@ -1,3 +1,8 @@
-flask
-gunicorn
-joblib
+Flask==2.2.2
+numpy==1.24.2
+pandas==1.5.3
+scikit-learn==1.2.1
+gunicorn==20.1.0
+matplotlib==3.7.0
+scipy==1.10.1
+requests==2.28.2
